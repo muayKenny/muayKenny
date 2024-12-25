@@ -8,13 +8,6 @@ I'm a software developer specializing in **front-end engineering** and **full-st
 
 ### **🌟 Featured Projects**
 
-🪩 **Quantum Bloch Sphere Visualizer** 🚧 _In Development_  
-_A WebGPU-powered Bloch Sphere visualizer styled as a disco ball, showcasing quantum gate transformations._
-
-- Conceptualized to teach and explore quantum states interactively.
-- Implements inputs for **6 quantum gate operations** to demonstrate their effects on superposition and state transformations.
-
-###
 
 🌄 **[WebGPU Topographic Map](https://github.com/muayKenny/webgpu-topo-map)**  
 _A 2D/3D elevation renderer that processes and visualizes TIFF data in real time._
