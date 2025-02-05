@@ -8,7 +8,6 @@ I'm a software developer specializing in **front-end engineering** and **full-st
 
 ### **🌟 Featured Projects**
 
-
 🌄 **[WebGPU Topographic Map](https://github.com/muayKenny/webgpu-topo-map)**  
 _A 2D/3D elevation renderer that processes and visualizes TIFF data in real time._
 
@@ -29,14 +28,23 @@ _WebGPU prototype implementation for visualizing deep embeddings._
 
 ###
 
+🕹️ **[3D Graphics Engine in C](https://github.com/muayKenny/3d-graphics-in-C)**  
+_A custom-built 3D software renderer written in C, implementing core graphics concepts from scratch._
+
+- Developed using **C** and **SDL2**.
+- Implements **custom 3D transformations, perspective projection, backface culling, and depth sorting**.
+- Supports **textured and wireframe rendering modes**.
+- Built upon a strong foundation of **low-level linear algebra and graphics pipeline principles**.
+
+
 ---
 
 ### **🔧 Skills**
 
-- **Languages**: JavaScript, TypeScript, Node.js.
-- **Front-End**: React, Vite, CSS.
-- **Graphics**: WebGPU, WebGL, GLSL Shaders.
-- **Focus Areas**: Data Visualization, Quantum Computing Concepts, 3D Environments.
+- **Languages**: JavaScript, TypeScript, Node.js, C.
+- **Front-End**: React, Vite, CSS, Three.js, React Three Fiber.
+- **Graphics**: WebGPU, WebGL, GLSL Shaders, SDL2.
+- **Backend**: Node.js, Event-Driven Microservices, PostgreSQL, MongoDB, Redis, Docker, AWS (S3, Lambda, DynamoDB), REST, GraphQL 
 
 ---
 
