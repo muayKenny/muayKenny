@@ -14,7 +14,8 @@ _A 2D/3D elevation renderer that processes and visualizes TIFF data in real time
 - Built with **Vite** + **WebGPU**.
 - Built **from scratch** with no external libraries—leverages raw WebGPU for maximum control.
 - Implements ambient, diffuse, and specular lighting, via custom shaders.
-- **Currently overhauling the codebase to modularize rendering methods and enable fully parameterized controls with Zustand.**
+- Optimized terrain mesh generation using **WASM (Rust),** moving interpolation, vertex & normal generation, and color mapping from JavaScript to Rust. This cut compute time from **~150ms to ~50ms (3x speedup).**
+
 
   ![Topographic Map Visualization](/assets/topo-map-screenshot.png)
 
